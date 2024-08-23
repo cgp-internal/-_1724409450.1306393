@@ -1,0 +1,12 @@
+{
+  "name": "flight-polygon-app",
+  "version": "1.0.0",
+  "description": "Node.js project for handling flight requests based on polygon boundaries",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "leaflet": "^1.7.1"
+  }
+}
